@@ -16,7 +16,7 @@ Designed and styled a clean, responsive UI to enhance usability and provide a sm
 
 ## 🚀 Live Demo
 
-[Click here to view live site](https://suparna62.github.io/codtech-task-2-text-summarizer)
+[Click here to view live site](https://suparna62.github.io/codtech-task-2-text-summarizer/)
 
 ## 💻 Tech Stack
 
