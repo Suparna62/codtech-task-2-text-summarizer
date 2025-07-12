@@ -18,6 +18,11 @@ Designed and styled a clean, responsive UI to enhance usability and provide a sm
 
 [Click here to view live site](https://suparna62.github.io/codtech-task-2-text-summarizer/)
 
+## 📷 App Screenshot
+
+![App Screenshot](./screenshot.png)
+
+
 ## 💻 Tech Stack
 
 - React.js
