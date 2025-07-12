@@ -20,7 +20,7 @@ Designed and styled a clean, responsive UI to enhance usability and provide a sm
 
 ## 📷 App Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot.pdf)
 
 
 ## 💻 Tech Stack
